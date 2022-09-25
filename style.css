@@ -1,0 +1,62 @@
+body{
+    background-color: whitesmoke;
+}
+.container{
+    margin-top: 50px; 
+}
+.title{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: bolder;
+    background-color: red;
+    color: white;
+}
+.col-lg-4{
+    margin: 20px 0px;
+}
+.card{
+    height: 650px;
+}
+.cardhover:hover{
+    transform: scale(1.05);
+ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.cardTitle{
+    font-weight: bold;
+    font-size: large;
+    height: 80px;
+    margin-top: 20px;
+    text-align: justify;
+}
+.card-body{
+    background-color:rgb(235, 235, 235);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 450;
+}
+.image{
+    height: 147px;
+}
+.date{
+    text-align: left;
+    margin-bottom: 0px;
+    font-style: initial;
+    font-weight: 550;
+}
+.conAuth{
+    height: 300px;
+}
+.content{
+    margin: 0px;
+    text-align: justify;
+}
+.author{
+    text-align: end;
+    font-style: italic;
+    margin: 0px;
+}
+.readMore{
+    text-align: center;
+}
+a{
+    border-bottom: 1px solid rgb(92, 92, 255);
+}
